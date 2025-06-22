@@ -4,7 +4,6 @@ public class Lab135_String_Immutable {
 
     public static void main (String[] args){
         String name = "Ishan";
-        name.toUpperCase();
-        System.out.println(name);
+        System.out.println(name.toUpperCase());
     }
 }
